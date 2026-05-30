@@ -32,7 +32,7 @@ inconsistent data types — all of which were identified and resolved systematic
 
 | File Name | Format | Description |
 |-----------|--------|-------------|
-| Dataset_for_Data_Analytics_project_1.xlsx | Excel | Cleaned dataset |
+| Data_Analytics_Project_1.xlsx | Excel | Cleaned dataset |
 | Data_Cleaning_Change_Log_Project_1.pdf | PDF | Full change log documentation |
 
 ---
